@@ -18,7 +18,7 @@ A smart WhatsApp chatbot for clinics in Kenya to automate appointment booking an
 * **Google Gemini API:** AI model for natural language understanding and generation.
 * **`date-fns`:** JavaScript library for robust date parsing and formatting.
 
-## ⚙️ Setup and Installation (Local Development)
+##  Setup and Installation (Local Development)
 
 Follow these steps to get the project running on your local machine.
 
