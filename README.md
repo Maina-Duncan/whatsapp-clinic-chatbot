@@ -2,7 +2,7 @@
 
 A smart WhatsApp chatbot for clinics in Kenya to automate appointment booking and answer common medical inquiries, powered by Node.js, Twilio, MongoDB, and Google Gemini.
 
-## ✨ Features
+##  Features
 
 * **AI-Powered General Inquiries:** Leverages Google Gemini to answer general medical questions (e.g., "What are the common symptoms of malaria?").
 * **Multi-Turn Appointment Booking:** Guides users step-by-step through the appointment scheduling process, collecting service, patient name, date, and time.
@@ -10,7 +10,7 @@ A smart WhatsApp chatbot for clinics in Kenya to automate appointment booking an
 * **Persistent Conversation Sessions:** Maintains chat context using MongoDB to ensure smooth multi-turn interactions.
 * **Appointment Management:** (Future feature: Allow users to view/cancel appointments.)
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 * **Node.js & Express.js:** Backend API and server.
 * **MongoDB & Mongoose:** Database for storing conversation sessions and appointments.
