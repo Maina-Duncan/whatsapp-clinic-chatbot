@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store # macOS
+*.log
+logs/
+# Explicitly ignore backend's node_modules and .env if in root
+/backend/node_modules/
+/backend/.env
